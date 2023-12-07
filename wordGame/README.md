@@ -1,5 +1,5 @@
 
-# Word Game Project  
+# Word Game Project  (WORK IN PROGRESS ON README FILE)
 
 ## Project Description  
 
