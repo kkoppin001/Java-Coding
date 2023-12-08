@@ -20,7 +20,7 @@ titled "*words.txt*" that lists many words to choose from and it needs to be in 
 If a *Run button* is not available, like it usually is in **Visual Studio Code** in the top right corner, 
 you can type two commands into the terminal, also known as the command line.
 
-The two commands that you will want to use, and order does matter, first, "**javac app.java**" to compile the program, and then "**java app.java**" second to run it.
+The two commands that you will want to use, and order does matter, first, "**javac wordGame.java**" to compile the program, and then "**java wordGame.java**" second to run it.
 Then the program should run accordingly.
 
 ### How to play the game  
